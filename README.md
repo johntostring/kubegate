@@ -1,0 +1,2 @@
+# Kubegate
+JWT-protected gateway for Kubernetes API server (via [Authenticating Proxy](https://kubernetes.io/docs/reference/access-authn-authz/authentication/#authenticating-proxy)), and support private networks without public IP
